@@ -3,20 +3,12 @@
   "description": "@t.me/Akklho",
   "icons": [
     {
-      "name": "GoogleGmail.png",
-      "url": "https://raw.githubusercontent.com/Akkcho/Loon-icon/main/icon/GoogleGmail.png"
-    },
-    {
       "name": "IMG_0809.png",
       "url": "https://raw.githubusercontent.com/Akkcho/Loon-icon/main/icon/IMG_0809.png"
     },
     {
       "name": "Heart.png",
       "url": "https://raw.githubusercontent.com/Akkcho/Loon-icon/main/icon/Heart.png"
-    },
-    {
-      "name": "App Store.png",
-      "url": "https://raw.githubusercontent.com/Akkcho/Loon-icon/main/icon/App Store.png"
     }
   ]
 }

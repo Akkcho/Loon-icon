@@ -3,10 +3,6 @@
   "description": "@t.me/Akklho",
   "icons": [
     {
-      "name": "love.png",
-      "url": "https://raw.githubusercontent.com/Akkcho/Loon-icon/main/icon/love.png"
-    },
-    {
       "name": "apple.png",
       "url": "https://raw.githubusercontent.com/Akkcho/Loon-icon/main/icon/apple.png"
     },
@@ -17,10 +13,6 @@
     {
       "name": "App Store.png",
       "url": "https://raw.githubusercontent.com/Akkcho/Loon-icon/main/icon/App Store.png"
-    },
-    {
-      "name": "IMG_0808.png",
-      "url": "https://raw.githubusercontent.com/Akkcho/Loon-icon/main/icon/IMG_0808.png"
     }
   ]
 }

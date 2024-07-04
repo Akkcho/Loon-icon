@@ -3,6 +3,14 @@
   "description": "@t.me/Akklho",
   "icons": [
     {
+      "name": "tiktok1.png",
+      "url": "https://raw.githubusercontent.com/Akkcho/Loon-icon/main/icon/tiktok1.png"
+    },
+    {
+      "name": "tiktok.png",
+      "url": "https://raw.githubusercontent.com/Akkcho/Loon-icon/main/icon/tiktok.png"
+    },
+    {
       "name": "Fire.png",
       "url": "https://raw.githubusercontent.com/Akkcho/Loon-icon/main/icon/Fire.png"
     },
@@ -13,6 +21,10 @@
     {
       "name": "Heart.png",
       "url": "https://raw.githubusercontent.com/Akkcho/Loon-icon/main/icon/Heart.png"
+    },
+    {
+      "name": "QuillVip.png",
+      "url": "https://raw.githubusercontent.com/Akkcho/Loon-icon/main/icon/QuillVip.png"
     }
   ]
 }

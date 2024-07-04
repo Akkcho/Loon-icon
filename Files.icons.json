@@ -1,5 +1,18 @@
 {
-  "name": "Cc自用图标" ,
-  "description" : "t.me/Akklho" ,
-  “图标”：[
+  "name": "Cc自用图标",
+  "description": "@t.me/Akklho",
+  "icons": [
     {
+      "name": "apple.png",
+      "url": "https://raw.githubusercontent.com/Akkcho/Loon-icon/main/icon/apple.png"
+    },
+    {
+      "name": "GoogleGmail.png",
+      "url": "https://raw.githubusercontent.com/Akkcho/Loon-icon/main/icon/GoogleGmail.png"
+    },
+    {
+      "name": "App Store.png",
+      "url": "https://raw.githubusercontent.com/Akkcho/Loon-icon/main/icon/App Store.png"
+    }
+  ]
+}

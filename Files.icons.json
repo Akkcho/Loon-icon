@@ -3,6 +3,10 @@
   "description": "@t.me/Akklho",
   "icons": [
     {
+      "name": "love.png",
+      "url": "https://raw.githubusercontent.com/Akkcho/Loon-icon/main/icon/love.png"
+    },
+    {
       "name": "apple.png",
       "url": "https://raw.githubusercontent.com/Akkcho/Loon-icon/main/icon/apple.png"
     },

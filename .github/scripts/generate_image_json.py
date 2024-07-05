@@ -5,7 +5,7 @@ def generate_json():
     image_folder = 'icon'
     json_data = {
         "name": "Cc自用图标",
-        "description": "@t.me/Akklho",
+        "description": "by Akklho",
         "icons": []
     }
 

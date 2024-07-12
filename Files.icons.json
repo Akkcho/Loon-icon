@@ -3,28 +3,28 @@
   "description": "by Akklho",
   "icons": [
     {
-      "name": "Loon_28.png",
-      "url": "https://raw.githubusercontent.com/Akkcho/Loon-icon/main/icon/Loon_28.png"
-    },
-    {
-      "name": "GKLD.png",
-      "url": "https://raw.githubusercontent.com/Akkcho/Loon-icon/main/icon/GKLD.png"
+      "name": "Loon_27.png",
+      "url": "https://raw.githubusercontent.com/Akkcho/Loon-icon/main/icon/Loon_27.png"
     },
     {
       "name": "Loon_29.png",
       "url": "https://raw.githubusercontent.com/Akkcho/Loon-icon/main/icon/Loon_29.png"
     },
     {
-      "name": "apple.png",
-      "url": "https://raw.githubusercontent.com/Akkcho/Loon-icon/main/icon/apple.png"
-    },
-    {
       "name": "QNSMW.png",
       "url": "https://raw.githubusercontent.com/Akkcho/Loon-icon/main/icon/QNSMW.png"
     },
     {
-      "name": "Loon_27.png",
-      "url": "https://raw.githubusercontent.com/Akkcho/Loon-icon/main/icon/Loon_27.png"
+      "name": "GKLD.png",
+      "url": "https://raw.githubusercontent.com/Akkcho/Loon-icon/main/icon/GKLD.png"
+    },
+    {
+      "name": "Blued.png",
+      "url": "https://raw.githubusercontent.com/Akkcho/Loon-icon/main/icon/Blued.png"
+    },
+    {
+      "name": "Loon_28.png",
+      "url": "https://raw.githubusercontent.com/Akkcho/Loon-icon/main/icon/Loon_28.png"
     },
     {
       "name": "XBXXDYX.png",
@@ -33,6 +33,14 @@
     {
       "name": "QuillVip.png",
       "url": "https://raw.githubusercontent.com/Akkcho/Loon-icon/main/icon/QuillVip.png"
+    },
+    {
+      "name": "apple.png",
+      "url": "https://raw.githubusercontent.com/Akkcho/Loon-icon/main/icon/apple.png"
+    },
+    {
+      "name": "Budget Flow.png",
+      "url": "https://raw.githubusercontent.com/Akkcho/Loon-icon/main/icon/Budget Flow.png"
     }
   ]
 }

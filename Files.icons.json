@@ -3,6 +3,10 @@
   "description": "by Akklho",
   "icons": [
     {
+      "name": "INJS.png",
+      "url": "https://raw.githubusercontent.com/Akkcho/Loon-icon/main/icon/INJS.png"
+    },
+    {
       "name": "Loon_29.png",
       "url": "https://raw.githubusercontent.com/Akkcho/Loon-icon/main/icon/Loon_29.png"
     },
@@ -21,6 +25,10 @@
     {
       "name": "MGTV.png",
       "url": "https://raw.githubusercontent.com/Akkcho/Loon-icon/main/icon/MGTV.png"
+    },
+    {
+      "name": "QJ.png",
+      "url": "https://raw.githubusercontent.com/Akkcho/Loon-icon/main/icon/QJ.png"
     },
     {
       "name": "Loon_28.png",
@@ -53,6 +61,10 @@
     {
       "name": "Ostrich.png",
       "url": "https://raw.githubusercontent.com/Akkcho/Loon-icon/main/icon/Ostrich.png"
+    },
+    {
+      "name": "DJ.png",
+      "url": "https://raw.githubusercontent.com/Akkcho/Loon-icon/main/icon/DJ.png"
     },
     {
       "name": "Blued.png",
